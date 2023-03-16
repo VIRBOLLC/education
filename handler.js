@@ -239,5 +239,5 @@ document.getElementById('box').innerHTML = `
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
         }
-    }
+    } 
 }
