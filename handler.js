@@ -82,7 +82,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','aeen1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -91,7 +91,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','aemh1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -102,7 +102,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','bhhn1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -111,7 +111,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','been1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -120,7 +120,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','bemh1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -131,7 +131,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','chhn1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -140,7 +140,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','ceen1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -149,7 +149,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','cemh1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -158,7 +158,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','ceap1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -169,7 +169,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','dhhn1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -178,7 +178,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','deen1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -187,7 +187,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','demh1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book} For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -196,7 +196,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','deap1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -207,7 +207,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','ehhn1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -216,7 +216,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','eeen1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -225,7 +225,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','eemh1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
@@ -234,7 +234,7 @@ document.getElementById('box').innerHTML = `
             localStorage.setItem('link','eeap1dd.zip')
             
 document.getElementById('box').innerHTML = `
-<h3> Download ${localStorage.getItem('subject')} For ${localStorage.getItem('class')}</h3>
+<h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
 `
