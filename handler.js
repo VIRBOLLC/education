@@ -94,7 +94,7 @@ document.getElementById('box').innerHTML = `
 <h3> Download ${sub} Book For ${localStorage.getItem('class')}</h3>
 <hr>
 <button onclick="window.location.replace('https://ncert.nic.in/textbook/pdf/${localStorage.getItem('link')}')">Download</button>
-`
+` 
         }
     }
     else if (cls == '2') {
