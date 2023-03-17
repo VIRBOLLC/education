@@ -61,7 +61,7 @@ function Class() {
     `
     }
     else {
-        alert('☹ | Sorry, The requested content will be available soon...')
+        alert('☹ | Buy Premium to access our services.')
     }
     
 }
